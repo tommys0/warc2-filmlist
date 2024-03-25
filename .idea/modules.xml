@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/film-list-react0.iml" filepath="$PROJECT_DIR$/film-list-react0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warc2-filmlist.iml" filepath="$PROJECT_DIR$/warc2-filmlist.iml" />
     </modules>
   </component>
 </project>
